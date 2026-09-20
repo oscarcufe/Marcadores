@@ -1,0 +1,57 @@
+[
+  {
+    "dir": "favoritos",
+    "title": "Favoritos"
+  },
+  {
+    "dir": "radio",
+    "title": "Radio"
+  },
+  {
+    "dir": "f1",
+    "title": "F1"
+  },
+  {
+    "dir": "flipper-zero",
+    "title": "Flipper Zero"
+  },
+  {
+    "dir": "futbol",
+    "title": "Futbol"
+  },
+  {
+    "dir": "linux",
+    "title": "Linux"
+  },
+  {
+    "dir": "moviles",
+    "title": "Móviles"
+  },
+  {
+    "dir": "raspberry",
+    "title": "Raspberry"
+  },
+  {
+    "dir": "ticwatch-ultra-3-gps",
+    "title": "Ticwatch ultra 3 GPS"
+  },
+  {
+    "dir": "todo",
+    "title": "Todo"
+  },
+  {
+    "dir": "tv",
+    "title": "TV"
+  },
+  "unshorten-it_no33.json",
+  "wifi_m5ul.json",
+  "eliminar-lineas-vacias-online_88ix.json",
+  "pi-hole_1rmv.json",
+  "busqueda-de-convocatorias_yt94.json",
+  "traduciringles-a-espanol-at-duckduckgo_6hec.json",
+  "fediversetv-videos-locales_1ucy.json",
+  {
+    "dir": "importados",
+    "title": "Importados"
+  }
+]

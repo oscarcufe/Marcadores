@@ -1,0 +1,15 @@
+[
+  "caratula-2000-todas-las-caratulas-covers_1o0v.json",
+  {
+    "dir": "musica",
+    "title": "Musica"
+  },
+  {
+    "dir": "peliculas",
+    "title": "Peliculas"
+  },
+  {
+    "dir": "todo",
+    "title": "Todo"
+  }
+]

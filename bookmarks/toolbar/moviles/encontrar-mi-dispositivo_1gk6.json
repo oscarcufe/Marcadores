@@ -1,0 +1,4 @@
+{
+  "title": "Encontrar mi dispositivo",
+  "url": "https://accounts.google.com/v3/signin/identifier?opparams=%253Fkdi%253DCAMiCgoGZmluZGVyEAE&dsh=S1628512669%3A1723753223728059&access_type=online&client_id=289722593072-1tp4g48pf1nr2er5njssr3bdu24v0mi0.apps.googleusercontent.com&ddm=0&flowName=GeneralOAuthCookieLessFlow&kdi=CAMiCgoGZmluZGVyEAE&redirect_uri=https%3A%2F%2Fwww.google.com%2Fandroid%2Ffind%2F&response_type=code&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fandroid_device_manager_limited+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fclient_channel+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fkeychain%2Fweb&service=lso"
+}

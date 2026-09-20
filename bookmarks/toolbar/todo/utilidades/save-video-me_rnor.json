@@ -1,0 +1,4 @@
+{
+  "title": "Save Video Me",
+  "url": "javascript:(function(){appPath%20=%20'https://savevideo.me/es/';function%20l(u,i,t,b){var%20d=document;if(!d.getElementById(i)){var%20s=d.createElement('script');s.src=u;s.id=i;d.body.appendChild(s)}s=setInterval(function(){u=0;try{u=t.call()}catch(i){}if(u){clearInterval(s);b.call()}},200)}l('https://savevideo.me/js/bookmarklet.js','SV',function(){return!!(typeof%20bookmarklet=='function')},%20function(){bookmarklet()})})()"
+}

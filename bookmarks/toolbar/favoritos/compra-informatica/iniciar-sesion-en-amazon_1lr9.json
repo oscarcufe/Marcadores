@@ -1,0 +1,4 @@
+{
+  "title": "Iniciar sesión en Amazon",
+  "url": "https://www.amazon.es/ap/signin?clientContext=262-0331462-0360236&openid.return_to=https%3A%2F%2Fwww.amazon.es%2Fhz%2Fcontact-us&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=amzn_contactus_desktop_es&openid.mode=checkid_setup&marketPlaceId=A1RKKUPIHCS9HS&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=Amazon&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.pape.max_auth_age=3600&siteState=clientContext%3D257-9411208-7794336%2CsourceUrl%3Dhttps%253A%252F%252Fwww.amazon.es%252Fhz%252Fcontact-us%2Csignature%3Dso5T0OSoeFCoqSSLk5ePyheXIq0j3D"
+}
